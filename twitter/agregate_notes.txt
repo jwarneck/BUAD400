@@ -1,0 +1,1 @@
+tweets --> {State: (total_words, sentiment_words, total_words)}

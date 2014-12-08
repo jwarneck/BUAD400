@@ -1,0 +1,11 @@
+def get_stop_words(filename):
+	reads in text file of stop words
+	stip new line char ("\n")
+	return list of stripped stop words
+
+def infer_word_sentiments(codes, text):
+	
+
+def infer_tweet_sentiments():
+	pulls in JSON, rip out text, pass to infer_word_sentiments
+	

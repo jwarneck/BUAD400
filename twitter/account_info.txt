@@ -1,0 +1,4 @@
+access_token = 34638593-fWDIr2bHiaAD52uZV0Eh8XX9gsRacdl1P1gqAZPlW
+access_token_secret = AyGIJpSOMwQLABF3UiKClk3vkaSXwJ8sct9nqYydcd0wJ
+consumer_key = aLJyEWvXi7vWcN6VLS836v7Oh
+consumer_secret = fzbjcWwzpdUYZ2N1GpgjJzemuj6oZSjzJuqhXERgzcGGfTXMpI

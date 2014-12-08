@@ -1,0 +1,1716 @@
+<!DOCTYPE html>
+<!--NEW-->
+<!--[if IE 8]><html class="ie8" lang="en" itemscope itemtype="http://schema.org/"><![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en" itemscope itemtype="http://schema.org/"><![endif]-->
+<!--[if IE 10]><html class="ie10" lang="en" itemscope itemtype="http://schema.org/"><![endif]-->
+<!--[if IE 11]><html class="ie11" lang="en" itemscope itemtype="http://schema.org/"><![endif]-->
+<!--[if !IE]><!-->
+<html itemscope="" itemtype="http://schema.org/" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <title>
+   The Daily Politics - NY Daily News
+  </title>
+  <meta content="dailypolitics" name="nydn_section"/>
+  <meta content="width=1020, maximum-scale=1.0" name="viewport"/>
+  <meta content="107464888913" property="fb:app_id"/>
+  <meta content="1594068001" property="fb:admins"/>
+  <meta content="NY Daily News" property="og:site_name"/>
+  <meta content="https://www.facebook.com/thenewyorkdailynews" property="article:publisher"/>
+  <meta content="02916AAC0DA8B068EFE01D721E03ED7E" name="msvalidate.01"/>
+  <link href="http://assets.nydailynews.com/nydn/css/20120405/nydn_shell.css?r=20141119mk1bbb" rel="stylesheet" type="text/css"/>
+  <meta content="300" http-equiv="refresh"/>
+  <meta content="NOARCHIVE" name="robots"/>
+  <meta content="The Daily Politics - NY Daily News" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="http://www.nydailynews.com/blogs/dailypolitics" property="og:url"/>
+  <link href="http://www.nydailynews.com/blogs/dailypolitics" rel="canonical"/>
+  <link href="http://m.nydailynews.com/blogs/dailypolitics" media="handheld" rel="alternate"/>
+  <link href="http://assets.nydailynews.com/nydn/css/20120405/article2014.css?r=20141119mk1bbb" rel="stylesheet" type="text/css"/>
+  <link href="http://assets.nydailynews.com/nydn/css/20120405/blogs2014.css?r=20141119mk1bbb" rel="stylesheet" type="text/css"/>
+  <script src="http://assets.nydailynews.com/nydn/js/nydn-pack-20140101.js?r=20141119mk1bbb" type="text/javascript">
+  </script>
+  <script src="http://cdn.gigya.com/js/socialize.js?apiKey=2_dEXFuXOH-VmO90DcKM-eUQEGA_6YdnhsIWSKVst63_pUwNak149F4kLoiEZMiaN6" type="text/javascript">
+   {
+                         shortURLs: 'never'
+                    }
+  </script>
+  <script src="http://assets.nydailynews.com/nydn/js/article2014.js?r=20141119mk1bbb" type="text/javascript">
+  </script>
+  <script src="http://assets.nydailynews.com/nydn/js/blogs2014.js?r=20141119mk1bbb" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link href="http://feeds.nydailynews.com/nydnrss" rel="alternate" title="NYDN Rss" type="application/rss+xml"/>
+  <link href="/cmlink/latest-blogs-rss-1.1474954?localLinksEnabled=false" rel="alternate" title="Latest Blogs Rss" type="application/rss+xml"/>
+  <link href="/cmlink/daily-politics-rss-1.1474961?localLinksEnabled=false" rel="alternate" title="The Daily Politics Rss" type="application/rss+xml"/>
+  <!-- HTML Element: 7.2211163 -->
+  <script src="//assets.adobedtm.com/4fc527d6fda921c80e462d11a29deae2e4cf7514/satelliteLib-c91fdc6ac624c6cbcd50250f79786de339793801.js">
+  </script>
+  <script src="http://c.amazon-adsystem.com/aax2/amzn_ads.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   try {
+                amznads.getAds('3088');
+            } catch(e) { /*ignore*/}
+  </script>
+  <script>
+   var pm_optimize_adslots = ['NYDN_ATF_x46@728x90','NYDN_BTF_x47@728x90','NYDN_ATF_x50@300x250','NYDN_BTF_x55@300x250','NYDN_BTF_x86@300x250'];
+            var pm_pub_id = 52225;
+  </script>
+  <script src="http://ads.pubmatic.com/AdServer/js/gshowad.js" type="text/javascript">
+  </script>
+  <script>
+   var rtp = {};
+  </script>
+  <!-- Rubicon Monetization API -->
+  <!-- Account: NY Daily News Site: NY Daily News -->
+  <script type="text/javascript">
+   oz_api = "valuation";
+                    oz_site = "11688/37272";
+                    oz_zone = "155572";
+                    oz_ad_slot_size = "300x250";
+  </script>
+  <script src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js?pc=11688/37272" type="text/javascript">
+  </script>
+  <script>
+   rtp['atf-medrec'] = rp_valuation.estimate.tier;
+  </script>
+  <script>
+   var rtp = {};
+  </script>
+  <!-- Rubicon Monetization API -->
+  <!-- Account: NY Daily News Site: NY Daily News -->
+  <script type="text/javascript">
+   oz_api = "valuation";
+                    oz_site = "11688/37272";
+                    oz_zone = "155572";
+                    oz_ad_slot_size = "728x90";
+  </script>
+  <script src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js?pc=11688/37272" type="text/javascript">
+  </script>
+  <script>
+   rtp['atf-leaderboard'] = rp_valuation.estimate.tier;
+  </script>
+  <!-- Rubicon Monetization API -->
+  <!-- Account: NY Daily News Site: NY Daily News -->
+  <script type="text/javascript">
+   oz_api = "valuation";
+                    oz_site = "11688/37272";
+                    oz_zone = "155572";
+                    oz_ad_slot_size = "300x250";
+  </script>
+  <script src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js?pc=11688/37272" type="text/javascript">
+  </script>
+  <script>
+   rtp['btf-medrec1'] = rp_valuation.estimate.tier;
+  </script>
+  <!-- Rubicon Monetization API -->
+  <!-- Account: NY Daily News Site: NY Daily News -->
+  <script type="text/javascript">
+   oz_api = "valuation";
+                    oz_site = "11688/37272";
+                    oz_zone = "155572";
+                    oz_ad_slot_size = "300x250";
+  </script>
+  <script src="http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js?pc=11688/37272" type="text/javascript">
+  </script>
+  <script>
+   rtp['btf-medrec2'] = rp_valuation.estimate.tier;
+  </script>
+  <script type="text/javascript">
+   var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+  </script>
+  <script type="text/javascript">
+   if(typeof progKeyValueMap!='undefined'){
+        bids = [];
+        for (val in progKeyValueMap) {
+              biddata = (progKeyValueMap[val].split(';'));
+              bids[biddata[5]] = {'bid':biddata[3], 'bidid':biddata[5]};
+        }
+        }
+
+
+
+// CURRENT_LAYOUT  nydn.BlogsLayout
+// CURRENT_CONTENT_TYPE p.siteengine.Page
+// modelType - nydn.InitDoubleClickElement
+//<![CDATA[
+<!--
+  googletag.cmd.push(function() {
+
+      
+      
+    
+
+
+    googletag.defineOutOfPageSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics","div-gpt-ad-x70").addService(googletag.pubads())
+      .setTargeting("position", "x70").setCollapseEmptyDiv(true,true);
+
+
+
+            
+
+
+
+
+
+
+    googletag.defineSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics",[[728,90],[950,35],[970,90],[970,250],[970,200],[950, 200], [950, 35],[990,90]], "div-gpt-ad-x46").addService(googletag.pubads())
+                     .setTargeting('bidid', bids['NYDN_ATF_x46@728x90'].bidid)
+          .setTargeting('bid', bids['NYDN_ATF_x46@728x90'].bid)
+                                  .setTargeting("tier", String(rtp['atf-leaderboard']))
+                          .setTargeting("position", "x46");
+
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+    googletag.defineSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics", [[300, 250], [300, 600]], "div-gpt-ad-x50").addService(googletag.pubads())
+                        .setTargeting('bidid', bids['NYDN_ATF_x50@300x250'].bidid)
+            .setTargeting('bid', bids['NYDN_ATF_x50@300x250'].bid)
+                                          .setTargeting("tier", String(rtp['btf-medrec1']))
+                            .setTargeting("position", "x50");
+
+
+
+
+
+
+
+    googletag.defineSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics", [[300, 250], [300, 600]], "div-gpt-ad-x55").addService(googletag.pubads())
+                   .setTargeting('bidid', bids['NYDN_BTF_x55@300x250'].bidid)
+          .setTargeting('bid', bids['NYDN_BTF_x55@300x250'].bid)
+                                          .setTargeting("tier", String(rtp['atf-medrec']))
+                          .setTargeting("position", "x55");
+
+
+
+    googletag.defineSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics", [[300, 250], [300, 600]], "div-gpt-ad-x86").addService(googletag.pubads())
+                    .setTargeting('bidid', bids['NYDN_BTF_x86@300x250'].bidid)
+          .setTargeting('bid', bids['NYDN_BTF_x86@300x250'].bid)
+                                      .setTargeting("tier", String(rtp['btf-medrec2']))
+                            .setTargeting("position", "x86");
+
+    
+                         googletag.pubads().setTargeting("Content", "Blog_Front");
+                
+
+
+
+
+
+
+       
+
+    googletag.defineSlot("4692832/NYDN/Blogs/Blogs.The_Daily_Politics", [728, 90], "div-gpt-ad-x47").addService(googletag.pubads())
+                 .setTargeting('bidid', bids['NYDN_BTF_x47@728x90'].bidid)
+          .setTargeting('bid', bids['NYDN_BTF_x47@728x90'].bid)
+                                        .setTargeting("tier", String(rtp['btf-leaderboard']))
+                           .setTargeting("position", "x47");
+
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    if (jQuery(window).width() > jQuery(window).height()){
+     googletag.pubads().setTargeting("orient", "landscape");
+     }else{
+     googletag.pubads().setTargeting("orient", "portrait");
+     }
+}
+
+
+
+ 
+    try {
+        amznads.setTargetingForGPTAsync('amznslots');
+    } catch(e) { /*ignore*/}
+
+
+ 
+if(document.referrer) { var vm_referer_url = document.referrer; var vm_referer = vm_referer_url.match(/(google|yahoo|bing|live|msn|twitter|facebook)\./); if(vm_referer && vm_referer[1]) {googletag.pubads().setTargeting("referrer", vm_referer[1]); }}
+
+        googletag.pubads().collapseEmptyDivs();
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+      });
+  //-->
+//]]>
+  </script>
+ </head>
+ <body class="blog the daily politics" id="blogs">
+  <div id="nydn-shell">
+   <div id="nydn-header">
+    <div id="nydn-nav-top">
+     <div id="nydn-welcome">
+      <ul>
+       <li id="nydn-date">
+        Friday, November 21, 2014
+       </li>
+       <li id="nydn-section">
+        NYDailyNews.com /
+        <h1>
+         dailypolitics
+        </h1>
+       </li>
+      </ul>
+      <!-- HTML Element: 7.100 -->
+      <ul>
+       <li id="services-drop">
+        Subscriptions &amp; Services
+        <ul>
+         <li>
+          <a href="http://classifieds.nydailynews.com/">
+           Classifieds
+          </a>
+         </li>
+         <li>
+          <a href="/contests">
+           Contests
+          </a>
+         </li>
+         <li>
+          <a href="https://homedelivery.nydailynews.com/">
+           Home Delivery
+          </a>
+         </li>
+         <li>
+          <a href="/services">
+           Services
+          </a>
+         </li>
+         <li>
+          <a href="/services/mobile">
+           Apps
+          </a>
+         </li>
+         <li class="nav_last nobg">
+          <a href="/login?rd=/profile">
+           Newsletters
+          </a>
+         </li>
+        </ul>
+       </li>
+       <script type="text/javascript">
+        nydn_userDetails();
+       </script>
+       <li id="nydn-sm">
+        <div>
+         <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fthenewyorkdailynews&amp;send=false&amp;layout=box_count&amp;width=48&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=90" style="border:none; overflow:hidden; width:48px; height:90px;">
+         </iframe>
+        </div>
+        <div>
+         <iframe allowtransparency="true" class="twitter-follow-button twitter-follow-button" data-twttr-rendered="true" frameborder="0" id="twitter-widget-0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.1409790579.html#_=1410453636098&amp;dnt=true&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=NYDailyNews&amp;show_count=false&amp;show_screen_name=true&amp;size=m" style="width: 142px; height: 20px;" title="Twitter Follow Button">
+         </iframe>
+         <script>
+          ! function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "http://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, "script", "twitter-wjs");
+         </script>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <nav id="nydn-nav">
+     <a href="/" id="nydn-logo">
+      DAILY NEWS
+     </a>
+     <ul>
+      <li>
+       <a href="/new-york">
+        New York
+       </a>
+      </li>
+      <li>
+       <a href="/news">
+        News
+       </a>
+      </li>
+      <li>
+       <a href="/news/politics">
+        Politics
+       </a>
+      </li>
+      <li>
+       <a href="/sports">
+        Sports
+       </a>
+      </li>
+      <li>
+       <a href="/entertainment">
+        Entertainment
+       </a>
+      </li>
+      <li>
+       <a href="/opinion">
+        Opinion
+       </a>
+      </li>
+      <li>
+       <a href="/life-style">
+        Living
+       </a>
+      </li>
+      <li>
+       <a href="/autos">
+        Autos
+       </a>
+      </li>
+     </ul>
+     <dl id="nydn-search">
+      <dt>
+      </dt>
+      <dd>
+       <form method="get" name="searchForm">
+        <input id="nydn-search-text" name="q" onkeyup="javascript:if(event.keyCode==13){search_action();}" type="text" value=""/>
+        <label for="nydn-search-submit">
+         Search
+        </label>
+        <input id="nydn-search-url" name="nydn-search-url" type="hidden" value="site"/>
+        <input id="nydn-search-submit" name="nydn-search-submit" onclick="search_action();" type="submit" value="Search"/>
+       </form>
+      </dd>
+     </dl>
+    </nav>
+    <script type="text/javascript">
+     <!--
+    function search_action(){
+        document.searchForm.action ="/search-results/search-results-7.113";
+        document.searchForm.submit();
+    }
+    //-->
+    </script>
+   </div>
+   <div id="nydn-ads">
+    <div id="nydn-main-ad">
+     <div id="div-gpt-ad-x46">
+      <script type="text/javascript">
+       //<![CDATA[
+              <!--
+              if(typeof googletag != 'undefined') {
+                googletag.cmd.push(function() {
+                  googletag.display("div-gpt-ad-x46");
+                });
+              }
+              //-->
+              //]]>
+      </script>
+     </div>
+     <div id="div-gpt-ad-x70">
+      <script type="text/javascript">
+       //<![CDATA[
+              <!--
+              if(typeof googletag != 'undefined') {
+                googletag.cmd.push(function() {
+                  googletag.display("div-gpt-ad-x70");
+                });
+              }
+              //-->
+              //]]>
+      </script>
+     </div>
+    </div>
+   </div>
+   <!-- nydn-header -->
+   <!-- nydn-header -->
+   <div id="nydn-body-top">
+    <div class="screamer flex-screamer" data-vr-zone="vr-nydn-breaking-news-7-2271190">
+     <div data-vr-contentbox="">
+      <a class="teaser" href="http://liveblog.nydailynews.com/Event/Daily_News_travels_to_Macau_with_Manny_Pacquiao_and_Chris_Algieri">
+       <h3>
+        LIVE BLOG FROM MACAU
+       </h3>
+       <p>
+        Get all the latest from Pacquiao-Algieri bout as we count down to Saturday's title fight with Daily News boxing writer Mitch Abramson
+       </p>
+      </a>
+      <div class="screamer-share" id="screamer-share-7-2271190">
+      </div>
+      <!-- SOCIAL LINKS teaser_screamer START -->
+      <script type="text/javascript">
+       var act = new gigya.services.socialize.UserAction();
+        act.setTitle("Get all the latest from Pacquiao-Algieri bout as we count down to Saturday\'s title fight with Daily News boxing writer Mitch Abramson");
+        act.setLinkBack("http://liveblog.nydailynews.com/Event/Daily_News_travels_to_Macau_with_Manny_Pacquiao_and_Chris_Algieri");
+        act.setDescription("");
+                var showShareBarUI_params =
+        {
+        containerID: 'screamer-share-7-2271190',
+        shareButtons: [
+            { provider: 'Facebook',enableCount: 'false'},
+            { provider: 'Twitter',enableCount: 'false',countURL:'http://liveblog.nydailynews.com/Event/Daily_News_travels_to_Macau_with_Manny_Pacquiao_and_Chris_Algieri'}
+            ],
+        userAction: act,
+        onLoad: onLoadHandler,
+        onSendDone: onSendDoneHandler,
+        noButtonBorders:true,
+        iconsOnly: true
+        }
+
+        function onLoadHandler(event){
+            if(loginId.length > 0){
+                jQuery('input[id$="gigya.services.socialize.plugins.share.showShareUI_tbYourEmail"]').val(loginId);
+            }
+        }
+
+        // onSendDone event handler.
+        function onSendDoneHandler(event){
+        }
+      </script>
+      <script type="text/javascript">
+       gigya.services.socialize.showShareBarUI({},showShareBarUI_params);
+      </script>
+      <!-- SOCIAL LINKS teaser_screamer END -->
+     </div>
+     <span>
+      close
+     </span>
+    </div>
+   </div>
+   <div id="nydn-body">
+    <span id="a-crumbs">
+     <a href="/blogs">
+      View All Blogs
+     </a>
+    </span>
+    <main id="nydn-main">
+     <div id="b-roll">
+      <article class="b-post" data-streamid="7.2271230" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <a class="b-header" href="/blogs/dailypolitics">
+         <img alt="daily-politics.jpg" src="http://assets.nydailynews.com/polopoly_fs/1.1664425.1395835128!/img/httpImage/image.jpg_gen/derivatives/landscape_635/daily-politics-jpg.jpg"/>
+        </a>
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/cuomo-cuts-rx-drug-red-tape-face-monster-snowstorms-blog-entry-1.2018982">
+          Gov. Cuomo issues emergency order allowing easier access to Rx drugs during devastating WNY storm fallout
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Celeste Katz" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Celeste Katz
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/CelesteKatzNYC">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-21T11:22:28">
+         Friday, November 21, 2014, 11:22 AM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/cuomo-cuts-rx-drug-red-tape-face-monster-snowstorms-blog-entry-1.2018982">
+          <img alt="TV OUT; MAGS OUT; MANDATORY CREDIT; BATAVIA DAILY NEWS OUT; DUNKIRK OBSERVER OUT; JAMESTOWN POST-JOURNAL OUT; LOCKPORT UNION-SUN JOURNAL OUT; NIAGARA GAZETTE OUT; OLEAN TIMES-HERALD OUT; SALAMANCA PRESS OUT; TONAWANDA NEWS OUT" src="http://assets.nydailynews.com/polopoly_fs/1.2018998.1416585634!/img/httpImage/image.jpg_gen/derivatives/index_200/winter-weather-coumo-new-york.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+         </span>
+        </figure>
+       </div>
+       "This action will help ensure that necessary and potentially life-saving medication remains available to those who need it," Cuomo said.
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/cuomo-cuts-rx-drug-red-tape-face-monster-snowstorms-blog-entry-1.2018982">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/Weather">
+          Weather
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Healthcare">
+          Healthcare
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/andrew+cuomo">
+          andrew cuomo
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/snow">
+          snow
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/prescription+drugs">
+          prescription drugs
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/buffalo">
+          buffalo
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Deaths">
+          Deaths
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/storms">
+          storms
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/cuomo-cuts-rx-drug-red-tape-face-monster-snowstorms-blog-entry-1.2018982">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2271217" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/buffalo-snow-situation-better-floods-blog-entry-1.2018977">
+          Snow has stopped in Buffalo and roads are set to re-open, but major flooding on its way
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Ken Lovett" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Ken Lovett
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-21T11:18:18">
+         Friday, November 21, 2014, 11:18 AM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/buffalo-snow-situation-better-floods-blog-entry-1.2018977">
+          <img alt="Governor Andrew M. Cuomo, left, speaks with the media as Erie County Executive Mark Poloncarcz, center, and Lt. Gov.Kathy Hochul, right, listen during a storm briefing at the Thruway Authority in Cheektowaga, N.Y. Wednesday, Nov.19, 2014. The Buffalo area found itself buried under as much as 5 feet of snow Wednesday, with another lake-effect storm expected to bring 2 to 3 more feet by late Thursday. (AP Photo/Gary Wiepert)" src="http://assets.nydailynews.com/polopoly_fs/1.2017313.1416491831!/img/httpImage/image.jpg_gen/derivatives/index_200/weather21n-3-web.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           Governor Andrew M. Cuomo, left, speaks with the media as Erie County Executive Mark Poloncarcz, center
+          </p>
+         </span>
+        </figure>
+       </div>
+       After another storm blasted the Buffalo area, the snow has finally stopped and a number of roads are set to re-open later Friday afternoon
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/buffalo-snow-situation-better-floods-blog-entry-1.2018977">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/andrew+cuomo">
+          andrew cuomo
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/president+obama">
+          president obama
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/marc+poloncarcz">
+          marc poloncarcz
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/buffalo">
+          buffalo
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/snow">
+          snow
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/byron+brown">
+          byron brown
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Weather">
+          Weather
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/storms">
+          storms
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/FEMA">
+          FEMA
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Barack+Obama">
+          Barack Obama
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/buffalo-snow-situation-better-floods-blog-entry-1.2018977">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2271088" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/political-wake-up-call-nov-21-blog-entry-1.2018739">
+          Wake-Up Call: Obama, immigration, and 'ripping children from their parents' arms'
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Celeste Katz" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Celeste Katz
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/CelesteKatzNYC">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-21T07:27:14">
+         Friday, November 21, 2014, 7:27 AM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/political-wake-up-call-nov-21-blog-entry-1.2018739">
+          <img alt="" src="http://assets.nydailynews.com/polopoly_fs/1.2018740.1416571326!/img/httpImage/image.jpg_gen/derivatives/index_200/wake-call-new-logo-1.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+         </span>
+        </figure>
+       </div>
+       Good morning and welcome to Wake-Up Call, your guidebook to and roundup of the latest in city, state, and national political news...
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/political-wake-up-call-nov-21-blog-entry-1.2018739">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/Wake-Up+Call">
+          Wake-Up Call
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/political-wake-up-call-nov-21-blog-entry-1.2018739">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270853" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-backs-regulation-costumed-characters-blog-entry-1.2018350">
+          Mayor de Blasio backs regulation for Times Square's costumed characters
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Erin Durkin" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Erin Durkin
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/erinmdurkin">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T18:57:18">
+         Thursday, November 20, 2014, 6:57 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-backs-regulation-costumed-characters-blog-entry-1.2018350">
+          <img alt="New York City Mayor Bill de Blasio said Monday, July 28, 2014 that he believes the people wearing character costumes in Times Square should be licensed and regulated. Dozens of people dressed as kids favorites like Elmo, Cookie Monster and Batman stand near 42nd Street and pose for photos with tourists in exchange for money. De Blasio said the practice has gone too far.  A man dressed as Spider-man was arrested Saturday, July 28, 2014, after punching a police officer who told him to stop harassing tourists.  The City Council is working on legislation that would require the characters to get a city-approved license.  (AP Photo/Seth Wenig)" src="http://assets.nydailynews.com/polopoly_fs/1.1919379.1409178795!/img/httpImage/image.jpg_gen/derivatives/index_200/times-square-characters.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           Women pose with a Spiderman in Times Square.
+          </p>
+         </span>
+        </figure>
+       </div>
+       Mayor de Blasio said he supports tougher regulation on Times Squares Elmos and Cookie Monsters, as the City Council considers forcing the c
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-backs-regulation-costumed-characters-blog-entry-1.2018350">
+        Read More
+       </a>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-backs-regulation-costumed-characters-blog-entry-1.2018350">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270846" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-rejects-skelo-criticism-work-senate-dems-blog-entry-1.2018336">
+          Mayor de Blasio rejects Dean Skelos criticism of his work for Senate Dems
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Erin Durkin" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Erin Durkin
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/erinmdurkin">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T18:47:02">
+         Thursday, November 20, 2014, 6:47 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-rejects-skelo-criticism-work-senate-dems-blog-entry-1.2018336">
+          <img alt="epa04465573 New York Mayor Bill de Blasio (R) speaks during a press conference on the status of Ebola patient Doctor Craig Spencer and New York's new Ebola policies at the Governor's office in New York, USA, 26 October 2014. EPA/JASON SZENES" src="http://assets.nydailynews.com/polopoly_fs/1.2012487.1416111758!/img/httpImage/image.jpg_gen/derivatives/index_200/usa-ebola-new-york.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           Mayor de Blasio hit back at criticism from Senate majority leader Dean Skelos.
+          </p>
+         </span>
+        </figure>
+       </div>
+       Mayor de Blasio hit back at Senate Republican leader Dean Skelos, who slammed him for trying to move the State Senate into Democratic hands.
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-rejects-skelo-criticism-work-senate-dems-blog-entry-1.2018336">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/bill+de+blasio">
+          bill de blasio
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/dean+skelos">
+          dean skelos
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-rejects-skelo-criticism-work-senate-dems-blog-entry-1.2018336">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270824" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-vows-reforms-turn-rikers-island-blog-entry-1.2018308">
+          Mayor de Blasio vows reforms to turn around Rikers Island
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Erin Durkin" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Erin Durkin
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/erinmdurkin">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T18:23:18">
+         Thursday, November 20, 2014, 6:23 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-vows-reforms-turn-rikers-island-blog-entry-1.2018308">
+          <img alt="NYC PAPERS OUT. Social media use restricted to low res file max 184 x 128 pixels and 72 dpi" src="http://assets.nydailynews.com/polopoly_fs/1.2018290.1416525138!/img/httpImage/image.jpg_gen/derivatives/index_200/rikers21e-1-web.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          Mayor Bill de Blasio hosts a City Hall roundtable with New York City Department of Correction Commissioner Joseph Ponte to discuss reforms, Thurs., Nov. 20, 2014.
+         </span>
+        </figure>
+       </div>
+       Rikers Island has become a dehumanizing place that turns out inmates worse than they were when they came in, Mayor de Blasio said Thursday
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-vows-reforms-turn-rikers-island-blog-entry-1.2018308">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/bill+de+blasio">
+          bill de blasio
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/rikers">
+          rikers
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-vows-reforms-turn-rikers-island-blog-entry-1.2018308">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270782" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/democratic-chair-welcomes-carrion-back-fold-blog-entry-1.2018207">
+          NY Democrats boss David Paterson: Bit of a twist to Adolfo Carrion's return to the fold
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Celeste Katz" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Celeste Katz
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/CelesteKatzNYC">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T18:22:00">
+         Thursday, November 20, 2014, 6:22 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/democratic-chair-welcomes-carrion-back-fold-blog-entry-1.2018207">
+          <img alt="" src="http://assets.nydailynews.com/polopoly_fs/1.2018210.1416523090!/img/httpImage/image.jpg_gen/derivatives/index_200/alg-adolfo-carrion-jpg.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+         </span>
+        </figure>
+       </div>
+       David Paterson: Adolfo Carrion's party change has unusual twist
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/democratic-chair-welcomes-carrion-back-fold-blog-entry-1.2018207">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/adolfo+carrion">
+          adolfo carrion
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/voter+registration">
+          voter registration
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Democrats">
+          Democrats
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Document+Drop">
+          Document Drop
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/david+paterson">
+          david paterson
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/democratic-chair-welcomes-carrion-back-fold-blog-entry-1.2018207">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270791" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-hosting-immigration-summit-month-blog-entry-1.2018224">
+          Mayor de Blasio hosting immigration summit next month with 20 other mayors
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Jennifer Fermino" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Jennifer Fermino
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/jfermino">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T17:57:24">
+         Thursday, November 20, 2014, 5:57 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-hosting-immigration-summit-month-blog-entry-1.2018224">
+          <img alt="Mayor Bill de Blasio speaks at an NYPD Memorial ceremony on Friday, Oct. 10, 2014 in New York.  De Blasio's relationship with the NYPD comes under further scrutiny after more damaging revelations have come to light about top aide Rachel Noerdlinger. (AP Photo/John Minchillo)" src="http://assets.nydailynews.com/polopoly_fs/1.2014397.1416288191!/img/httpImage/image.jpg_gen/derivatives/index_200/nyc-mayor.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           Mayor Bill de Blasio
+          </p>
+         </span>
+        </figure>
+       </div>
+       Mayor de Blasio is hosting an immigration summit at Gracie Mansion with at least 20 mayors.
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-hosting-immigration-summit-month-blog-entry-1.2018224">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/Bill+de+Blasio">
+          Bill de Blasio
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/kasim+reed">
+          kasim reed
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/ed+lee">
+          ed lee
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/mayor-de-blasio-hosting-immigration-summit-month-blog-entry-1.2018224">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270763" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-busted-pot-pay-fine-mail-blog-entry-1.2018170">
+          De Blasio looks to allow people busted for pot to skip court, pay fine by mail
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Erin Durkin" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Erin Durkin
+         </a>
+         <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/erinmdurkin">
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T17:14:51">
+         Published: Thursday, November 20, 2014, 5:14 PM
+        </div>
+        <div class="a-date-updated" content="2014-11-20T17:14:51">
+         Updated: Thursday, November 20, 2014, 5:14 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-busted-pot-pay-fine-mail-blog-entry-1.2018170">
+          <img alt="NEW YORK, NY - NOVEMBER 10: New York City Police Commissioner Bill Bratton (C) holds up a bag of oregano to demonstrate what 25 grams of marijuana looks like at a news conference with New York City Mayor Bill de Blasio (L) to announce changes to New York City's marijuana policy on November 10, 2014 in New York City. The commissioner and Mayor de Blasio announced that the city will start giving out tickets (and court summons) rather than arresting people for possession of 25 grams of marijuana and under. The new guidelines for officers will result in hundreds of less arrests per year, freeing up the police to focus on other crimes. It will also free those caught with the drug from having a damaging arrest record. (Photo by Spencer Platt/Getty Images)" src="http://assets.nydailynews.com/polopoly_fs/1.2016136.1416413375!/img/httpImage/image.jpg_gen/derivatives/index_200/82607096.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           De Blasio and Bratton announce new marijuana policy.
+          </p>
+         </span>
+        </figure>
+       </div>
+       The city is looking to let people hit with summonses for pot mail in their fines instead of going to court, Mayor de Blasio said Thursday.
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-busted-pot-pay-fine-mail-blog-entry-1.2018170">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/marijuana">
+          marijuana
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/pot">
+          pot
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/Drugs">
+          Drugs
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/courts">
+          courts
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/bill+de+blasio">
+          bill de blasio
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/fines">
+          fines
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/de-blasio-busted-pot-pay-fine-mail-blog-entry-1.2018170">
+        Post a Comment
+       </a>
+      </article>
+      <article class="b-post" data-streamid="7.2270731" data-streamtags='["NYDN.Blogs.d","NYDN.Blogs.The_Daily_Politics.d"]'>
+       <header class="a-headers">
+        <h1 class="a-header">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/ny-high-court-rent-stabilized-leases-assets-blog-entry-1.2018137">
+          New York high court: Rent-stabilized leases can't be seized in bankruptcy cases
+         </a>
+        </h1>
+        <div class="a-byline">
+         BY
+         <a href="/authors?author=Glenn Blain" itemscope="" itemtype="http://schema.org/Person" rel="author">
+          Glenn Blain
+         </a>
+        </div>
+        <div class="a-date-published" content="2014-11-20T16:49:53">
+         Thursday, November 20, 2014, 4:49 PM
+        </div>
+        <script>
+         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+        </script>
+       </header>
+       <div class="a-module">
+        <figure class="a-image h">
+         <a href="http://www.nydailynews.com/blogs/dailypolitics/ny-high-court-rent-stabilized-leases-assets-blog-entry-1.2018137">
+          <img alt="Justice Sheila Abdus-Salaam looks on as members of the state Senate Judiciary Committee vote unanimously to advance her nomination to fill a vacancy on the Court of Appeals at the Capitol on Tuesday, April 30, 2013, in Albany, N.Y. If confirmed by the full Senate, she will be the first African-American woman on the seven-member Court of Appeals.  (AP Photo/Mike Groll)" src="http://assets.nydailynews.com/polopoly_fs/1.1522981.1384922874!/img/httpImage/image.jpg_gen/derivatives/index_200/ny-court-cuomo.jpg"/>
+         </a>
+         <span class="a-credit">
+          NEW YORK DAILY NEWS
+         </span>
+         <span class="a-caption">
+          <p>
+           Court of Appeals Judge Sheila Abdus-Salaam ruled rent stablized leases are a public assistance benefit
+          </p>
+         </span>
+        </figure>
+       </div>
+       New Yorks highest court handed a victory to tenants in rent stabilized apartments Friday when it ruled their leases could not seized as ass
+       <a href="http://www.nydailynews.com/blogs/dailypolitics/ny-high-court-rent-stabilized-leases-assets-blog-entry-1.2018137">
+        Read More
+       </a>
+       <dl class="tags">
+        <dt>
+         Tags:
+        </dt>
+        <dd>
+         <a href="/blogs/tags/court+of+appeals">
+          court of appeals
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/rent+stabilization">
+          rent stabilization
+         </a>
+         ,
+        </dd>
+        <dd>
+         <a href="/blogs/tags/bankruptcy">
+          bankruptcy
+         </a>
+        </dd>
+       </dl>
+       <a class="post-comment" href="http://www.nydailynews.com/blogs/dailypolitics/ny-high-court-rent-stabilized-leases-assets-blog-entry-1.2018137">
+        Post a Comment
+       </a>
+      </article>
+      <div class="pagination">
+       <ul>
+        <li>
+         <b>
+          1
+         </b>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=2">
+          2
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=3">
+          3
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=4">
+          4
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=5">
+          5
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=6">
+          6
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=7">
+          7
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=8">
+          8
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=9">
+          9
+         </a>
+        </li>
+        <li>
+         <a href="/blogs/dailypolitics?page=10">
+          10
+         </a>
+        </li>
+        <li class="pn">
+         <a href="/blogs/dailypolitics?page=2">
+          Next Page
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </main>
+    <!-- end content_cotainer -->
+    <!-- start col_300 -->
+    <aside id="nydn-aside">
+     <div class="a-module">
+      <h5>
+       <i>
+        The Daily Politics /
+       </i>
+       About
+      </h5>
+      <div class="b-about">
+       <div>
+        <p>
+         Grab a ringside seat for the blazing battles stirring up City Hall, Albany and Washington. Get involved: Send news tips to
+         <a href="mailto:ckatz@nydailynews.com?subject=Daily%20Politics%20Tipline">
+          ckatz@nydailynews.com
+         </a>
+         . And
+         <a href="https://twitter.com/DNDailyPolitics/lists/nydn-team-politics">
+          follow our politics team
+         </a>
+         on Twitter!
+        </p>
+       </div>
+       <div id="a-byline">
+        By
+        <a href="/authors?author=Celeste Katz" itemscope="" itemtype="http://schema.org/Person" rel="author">
+         Celeste Katz
+        </a>
+        <a class="twitter-follow-button" data-lang="en" data-show-count="false" href="https://twitter.com/CelesteKatzNYC">
+        </a>
+       </div>
+      </div>
+     </div>
+     <div id="div-gpt-ad-x50">
+      <script type="text/javascript">
+       //<![CDATA[
+              <!--
+              if(typeof googletag != 'undefined') {
+                googletag.cmd.push(function() {
+                  googletag.display("div-gpt-ad-x50");
+                });
+              }
+              //-->
+              //]]>
+      </script>
+     </div>
+     <div class="a-module">
+      <h5>
+       <i>
+        The Daily Politics /
+       </i>
+       Categories
+      </h5>
+      <ul class="b-categories">
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Health_Environment%26cid%3D1.1622314%26name%3DHealth+and+Environment">
+         Health and Environment
+         <span>
+          (77)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Crime_Courts%26cid%3D1.1622314%26name%3DCrimes+and+Courts">
+         Crimes and Courts
+         <span>
+          (99)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Board_Of_Elections%26cid%3D1.1622314%26name%3DBoard+Of+Elections">
+         Board Of Elections
+         <span>
+          (47)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Unions%26cid%3D1.1622314%26name%3DUnions">
+         Unions
+         <span>
+          (42)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Congress%26cid%3D1.1622314%26name%3DCongress">
+         Congress
+         <span>
+          (82)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Mayor%26cid%3D1.1622314%26name%3DMayor">
+         Mayor
+         <span>
+          (166)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Public_Advocate%26cid%3D1.1622314%26name%3DPublic+Advocate">
+         Public Advocate
+         <span>
+          (7)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Liveblog%26cid%3D1.1622314%26name%3DLiveblog">
+         Liveblog
+         <span>
+          (8)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Campaigns_Elections%26cid%3D1.1622314%26name%3DCampaigns+and+Elections">
+         Campaigns and Elections
+         <span>
+          (398)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Controller%26cid%3D1.1622314%26name%3DController">
+         Controller
+         <span>
+          (41)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Governor%26cid%3D1.1622314%26name%3DGovernor">
+         Governor
+         <span>
+          (501)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.City_Council%26cid%3D1.1622314%26name%3DCity+Council">
+         City Council
+         <span>
+          (68)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.President%26cid%3D1.1622314%26name%3DPresident">
+         President
+         <span>
+          (35)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.Political_Parties%26cid%3D1.1622314%26name%3DPolitical+Parties">
+         Political Parties
+         <span>
+          (184)
+         </span>
+        </a>
+       </li>
+       <li>
+        <a href="http://www.nydailynews.com/blogs/dailypolitics%3Fcategory%3Ddepartment.category.Blogs.The_Daily_Politics.State_Legislature%26cid%3D1.1622314%26name%3DState+Legislature">
+         State Legislature
+         <span>
+          (312)
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div id="div-gpt-ad-x55">
+      <script type="text/javascript">
+       //<![CDATA[
+              <!--
+              if(typeof googletag != 'undefined') {
+                googletag.cmd.push(function() {
+                  googletag.display("div-gpt-ad-x55");
+                });
+              }
+              //-->
+              //]]>
+      </script>
+     </div>
+     <div class="a-module">
+      <div class="blog-archive">
+       <h5>
+        <i>
+         The Daily Politics  /
+        </i>
+        Archive
+       </h5>
+       <span>
+        2014
+       </span>
+       <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20141121">
+        Full Archive 
+       </a>
+       <ul>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140102">
+          Jan
+          <span>
+           (290)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140202">
+          Feb
+          <span>
+           (270)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140302">
+          Mar
+          <span>
+           (258)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140402">
+          Apr
+          <span>
+           (265)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140502">
+          May
+          <span>
+           (266)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140602">
+          Jun
+          <span>
+           (306)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140702">
+          Jul
+          <span>
+           (288)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140802">
+          Aug
+          <span>
+           (220)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20140902">
+          Sep
+          <span>
+           (269)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20141002">
+          Oct
+          <span>
+           (257)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20141102">
+          Nov
+          <span>
+           (148)
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.nydailynews.com/blogs/blogs-archive?section=The Daily Politics&amp;pdate=20141202">
+          Dec
+          <span>
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!-- HTML Element: 7.2192089 -->
+     <div class="module_hdr">
+      <h3>
+       <span>
+        <i>
+         Politics
+        </i>
+        Video
+       </span>
+      </h3>
+     </div>
+     <script async="" id="_nw2e-js" src="//launch.newsinc.com/js/embed.js" type="text/javascript">
+     </script>
+     <div class="ndn_embed" data-config-site-section="nydailynews_pol_blg_fro" data-config-tracking-group="90051" data-config-type="VideoLauncher/Slider300x250" data-config-widget-id="13433">
+     </div>
+     <div id="div-gpt-ad-x86">
+      <script type="text/javascript">
+       //<![CDATA[
+              <!--
+              if(typeof googletag != 'undefined') {
+                googletag.cmd.push(function() {
+                  googletag.display("div-gpt-ad-x86");
+                });
+              }
+              //-->
+              //]]>
+      </script>
+     </div>
+    </aside>
+    <!-- end col_300 -->
+   </div>
+   <div id="nydn-body-bottom">
+   </div>
+   <!-- HTML Element: 7.116 -->
+   <div id="nydn-footer">
+    <div id="nydn-footer-ad">
+     <div id="div-gpt-ad-x47">
+      <script type="text/javascript">
+       //<![CDATA[
+                <!--
+                if(typeof googletag != 'undefined') {
+                  googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-x47"); 
+                  });
+                }
+                //-->
+               //]]>
+      </script>
+     </div>
+    </div>
+    <div id="nydn-footer-services">
+     <ul>
+      <li>
+       <a href="/services/media-kit/">
+        Media Kit
+       </a>
+      </li>
+      <li>
+       <a href="https://homedelivery.nydailynews.com" target="_blank">
+        Home Delivery
+       </a>
+      </li>
+      <li>
+       <a href="/login">
+        Newsletters
+       </a>
+      </li>
+      <li>
+       <a href="http://local.nydailynews.com/">
+        Businesses
+       </a>
+      </li>
+      <li>
+       <a href="http://nydailynews.adperfect.com" target="_blank">
+        Place an Ad
+       </a>
+      </li>
+      <li>
+       <a href="/services/privacy-policy#third_party_ads">
+        About our Ads
+       </a>
+      </li>
+      <li>
+       <a href="/services/contact-us">
+        Contact Us
+       </a>
+      </li>
+      <li>
+       <a href="/services/careers">
+        Careers
+       </a>
+      </li>
+      <li>
+       <a href="/services/faqs">
+        FAQ's
+       </a>
+      </li>
+      <li>
+       <a href="/services/feeds">
+        Feeds
+       </a>
+      </li>
+      <li>
+       <a href="/services/sitemap">
+        Site Map
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div id="nydn-disclaimer">
+     <p>
+      Use of this website signifies your agreement to the
+      <a href="/services/terms-services">
+       Terms of Service
+      </a>
+      and
+      <a href="/services/privacy-policy">
+       Privacy Policy
+      </a>
+      .
+     </p>
+     <p>
+       Copyright 2014 NYDailyNews.com. All rights reserved.
+     </p>
+    </div>
+   </div>
+   <!-- HTML Element: 7.2211164 -->
+   <script type="text/javascript">
+    _satellite.pageBottom();
+   </script>
+  </div>
+ </body>
+</html>
