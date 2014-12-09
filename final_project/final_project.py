@@ -15,3 +15,23 @@ def set_model(make):
 def set_make():
 	make = raw_input("Please enter the brand car you want to search:")
 	return make
+
+def set_model_link(soup, model):
+	for link in soup.find_all('a')[:500]:
+		#print("FOR SET MODEL")
+		href = link.get('href')
+		#print("GET HREF")
+		#print(link.get('href'))
+		if model not in href:
+			#print("IF MODEL NOT IN")
+			continue
+		else:
+			#print("THING = href")
+			thing = href
+		return thing
+
+def get_model_URL(soup, model):
+	model_link = set_model_link(soup, model)
+	#print("MODEL_LINK")
+	#print(model_link)
+	return model_link
