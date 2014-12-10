@@ -35,17 +35,26 @@ def set_model_link(soup, model):
 		#print("GET HREF")
 		#print(link.get('href'))
 		
-		if (href.find(model)!= -1):
+		
+		if (href == None):
+			#
+			print("BREAK")
+			break
+		
+		elif (href.find(model)!= -1):
 			print("THING = href")
 			thing = []
 			thing.append(href)
-			
+		
 		elif model not in href:
-			print("IF MODEL NOT IN")
+			#print("IF MODEL NOT IN")
 			continue
-		else:
+		'''
+		elif (href == None):
+			#
 			print("BREAK")
 			break
+		'''
 	return thing
 
 def get_model_URL(soup, model):

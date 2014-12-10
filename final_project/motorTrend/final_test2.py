@@ -33,10 +33,19 @@ print("MODEL_URL = " + model_URL)
 model_list = []
 model_list = get_model_URL(soup,model) 
 
-count = 0
-print("COUNT = " + str(count))
+
+x = 0
+print("x = " + str(x))
 print("MODEL_LIST_LENGTH = " + str(len(model_list)))
-while (count < len(model_list)):
-	print(model_list[count])
-	count += 1
+while (x < len(model_list)):
+	print(model_list[x])
+	x += 1
+
+'''
+for x in range(0, len(model_list)):
+	y = 1
+	print(model_list[y])
+	y +=1
+'''
+
 # get_all_news_link(model_URL)
