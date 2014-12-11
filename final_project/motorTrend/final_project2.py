@@ -48,15 +48,15 @@ def set_model_link(soup, model, URL):
 				x += 1
 				#print("MODEL SOUP")
 				#print(model_soup)
-				print(" ")
-				print("MODEL_URL = " + model_URL)
-				print(" ")
+				#print(" ")
+				#print("MODEL_URL = " + model_URL)
+				#print(" ")
 				#Go to next page...
 				#set_model_link(model_soup, model, URL)
 				for link in model_soup.find_all('a')[:1000]:
 					href = link.get('href')
 					if (href == None):
-						print("BREAK")
+						#print("BREAK")
 						break
 					elif (href.find(model)!= -1):
 						#print("THING = href")
@@ -74,7 +74,7 @@ def set_model_link(soup, model, URL):
 					elif model not in href:
 						#print("IF MODEL NOT IN")
 						continue
-			print("BREAK")
+			#print("BREAK")
 			break
 		
 		elif (href.find(model)!= -1):
@@ -109,11 +109,22 @@ def get_model_URL(soup, model, URL):
 	#print("MODEL_LINK")
 	#print(model_link)
 	return model_link
-'''
-def get_all_news_link(model_URL):
-	model_text = requests.get(model_URL).text
-	model_soup = BeautifulSoup(model_text)
-	thing_URL = model_URL[:-1] + "_news/"
-	print("THING URL = " +thing_URL)
-	#for link in model_soup.find_all('a')[:500]:
-'''	
+
+def get_choices(model_list):
+	length = len(model_list)
+	print(length)
+	x = 0
+	while (x < length):
+		choice = model_list[x]
+		spot = choice.index("audi")
+		title = choice[spot:]
+		x += 1
+		print(str(x) + ": " + title.replace("_", " ").replace("/", ""))
+
+def get_review(analyze):
+	review_url = analyze
+	review_page = requests.get(review_url).text
+	review_soup = BeautifulSoup(review_page)
+	for paragraph in review_soup.find_all('span')[:1000]:
+		para = paragraph.get('paragraph')
+		print(para)

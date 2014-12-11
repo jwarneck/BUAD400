@@ -6,7 +6,7 @@ n = 10
 
 make = set_make()
 model = set_model(make)
-
+base_url = "http://www.motortrend.com"
 URL = set_model_url(make)
 
 text = requests.get(URL).text
@@ -41,7 +41,7 @@ model_list = list(model_list)
 
 #print("MODEL_LIST = ")
 #print(model_list)
-
+'''
 x = 0
 #print("x = " + str(x))
 #print("MODEL_LIST_LENGTH = " + str(len(model_list)))
@@ -49,7 +49,18 @@ print(model +"_LINK_LIST")
 while (x < len(model_list)):
 	print(model_list[x])
 	x += 1
+'''
 
+# iterate through links and pull text to score
+print(" ")
+print("Please choose an option to calculate: ")
+get_choices(model_list)
+choice = input()
+print(" ")
+print("You chose: " + model_list[choice - 1])
+print(" ")
+link = model_list[choice - 1] 
+analyze = base_url + link
 
-
-# get_all_news_link(model_URL)
+review = get_review(analyze)
+print(review)
