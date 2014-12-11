@@ -24,11 +24,13 @@ def set_model(make):
 # sets the make the USER wants to search
 # returns make of car USER inputs
 def set_make():
+	print(" ")
 	make = raw_input("Please enter the brand car you want to search: ")
 	return make
 
-def set_model_link(soup, model):
-	model = model.lower()
+def set_model_link(soup, model, URL):
+	model = model.lower().replace(" ", "_")
+	thing = []
 	for link in soup.find_all('a')[:1000]:
 		#print("FOR SET MODEL")
 		href = link.get('href')
@@ -37,14 +39,59 @@ def set_model_link(soup, model):
 		
 		
 		if (href == None):
-			#
+			
+			x = 2
+			while (x <= 5):
+				model_URL = (URL + "page" + str(x) +".html")
+				model_text = requests.get(model_URL).text
+				model_soup = BeautifulSoup(model_text)
+				x += 1
+				#print("MODEL SOUP")
+				#print(model_soup)
+				print(" ")
+				print("MODEL_URL = " + model_URL)
+				print(" ")
+				#Go to next page...
+				#set_model_link(model_soup, model, URL)
+				for link in model_soup.find_all('a')[:1000]:
+					href = link.get('href')
+					if (href == None):
+						print("BREAK")
+						break
+					elif (href.find(model)!= -1):
+						#print("THING = href")
+						#print(href)
+						#thing.append(href)
+			
+						if (href.find("photo_01")!= -1):
+							continue
+						elif (href.find("video")!= -1):
+							continue
+						elif (href.find("gallery")!= -1):
+							continue
+						else:
+							thing.append(href)
+					elif model not in href:
+						#print("IF MODEL NOT IN")
+						continue
 			print("BREAK")
 			break
 		
 		elif (href.find(model)!= -1):
-			print("THING = href")
-			thing = []
-			thing.append(href)
+			#print("THING = href")
+			#print(href)
+			
+			#thing.append(href)
+			
+			if (href.find("photo_01")!= -1):
+				continue
+			elif (href.find("video")!= -1):
+				continue
+			elif (href.find("gallery")!= -1):
+				continue
+			else:
+				thing.append(href)
+			
 		
 		elif model not in href:
 			#print("IF MODEL NOT IN")
@@ -57,8 +104,8 @@ def set_model_link(soup, model):
 		'''
 	return thing
 
-def get_model_URL(soup, model):
-	model_link = set_model_link(soup, model)
+def get_model_URL(soup, model, URL):
+	model_link = set_model_link(soup, model, URL)
 	#print("MODEL_LINK")
 	#print(model_link)
 	return model_link

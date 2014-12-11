@@ -30,22 +30,26 @@ for link in soup.find_all('brand_list')
 model_URL = get_model_URL(soup, model)
 print("MODEL_URL = " + model_URL)
 '''
-model_list = []
-model_list = get_model_URL(soup,model) 
 
+model_list = set(get_model_URL(soup,model, URL))
+model_list = list(model_list)
+
+#print(model_list)
+
+
+#model_list = get_model_URL(soup, model)
+
+#print("MODEL_LIST = ")
+#print(model_list)
 
 x = 0
-print("x = " + str(x))
-print("MODEL_LIST_LENGTH = " + str(len(model_list)))
+#print("x = " + str(x))
+#print("MODEL_LIST_LENGTH = " + str(len(model_list)))
+print(model +"_LINK_LIST")
 while (x < len(model_list)):
 	print(model_list[x])
 	x += 1
 
-'''
-for x in range(0, len(model_list)):
-	y = 1
-	print(model_list[y])
-	y +=1
-'''
+
 
 # get_all_news_link(model_URL)
