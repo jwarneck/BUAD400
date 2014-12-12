@@ -1,5 +1,8 @@
+from sentiment import *
 from bs4 import BeautifulSoup
 import requests
+import matplotlib.pyplot as plt
+from twitter_util import *
 
 # Sets URL on motortrend.com to reflect the make and model the 
 # USER wants to search for.
@@ -29,7 +32,7 @@ def set_make():
 	return make
 
 def set_model_link(soup, model, URL):
-	model = model.lower().replace(" ", "_")
+	model = model.lower().replace(" " or "-", "_")
 	thing = []
 	for link in soup.find_all('a')[:1000]:
 		#print("FOR SET MODEL")
@@ -110,21 +113,86 @@ def get_model_URL(soup, model, URL):
 	#print(model_link)
 	return model_link
 
-def get_choices(model_list):
+def get_choices(model_list, model):
+	car = model.lower()
+	#print("CAR = " + car)
 	length = len(model_list)
-	print(length)
+	#print(length)
 	x = 0
 	while (x < length):
 		choice = model_list[x]
-		spot = choice.index("audi")
+		spot = choice.index(car)
 		title = choice[spot:]
 		x += 1
 		print(str(x) + ": " + title.replace("_", " ").replace("/", ""))
 
 def get_review(analyze):
+	#print(analyze)
+	review = []
 	review_url = analyze
-	review_page = requests.get(review_url).text
-	review_soup = BeautifulSoup(review_page)
-	for paragraph in review_soup.find_all('span')[:1000]:
-		para = paragraph.get('paragraph')
-		print(para)
+	review_soup = BeautifulSoup(requests.get(review_url).text)
+	#for pars in review_soup.find_all('span',  {'class': 'paragraph'}):
+	stuff = review_soup.find_all('span',  {'class': 'paragraph'})
+		#p = pars.get('text')
+	p = '\n'.join([t.text for t in stuff])
+	#print(p)
+	#review.append(p)
+	return p
+
+
+def get_score(codes, text):
+	score_list = []
+	if (text != None):
+		#print("CHECKING SCORE")
+		score = sentiment_score(codes, text, avg_total_words = True, punct = ['.', '?', '!', ',', '-', "'", ';', ':', '/', "\n", "\t", '"'])
+		#if (score > 0):
+		score = score + 1
+		score = ("{0:.2f}".format(score))
+		#score_list.append(score)
+		return score
+		#else:
+			#return score - 1
+	else:
+		#print("BROKEN")
+		return None
+
+def get_msrp(make, model, base_url):
+	make = make.replace(" ", "_").lower()
+	model = model.lower().replace(" " or "-", "_")
+	#price_url = "http://www.truecar.com/prices-new/" + make + "/" + model + "-pricing/"
+	price_url = "http://www.kbb.com/cars-for-sale/cars/new-cars/" + make + "/" + model + "/"
+	#return price_url
+	price_soup = BeautifulSoup(requests.get(price_url).text)
+	#stuff = price_soup.find_all('span', {'class': 'amount'})
+	stuff = price_soup.find_all('div', {'class': 'vehicle-price section-subtitle'})
+	#for p in stuff:
+	#	price = p.get('vehicle-price section-subtitle')
+	price = '\n'.join([t.float for t in stuff])
+	#print("PRICE = " + price)
+	return price
+	#print(URL)
+
+def plot_points(price_list, score_list):
+	scores_prices = []
+	scores = score_list
+	prices = price_list
+	x = 0
+	x_axis = []
+	y = 0
+	y_axis = []
+	L = 0
+	Z = 0
+	while (x < len(scores)):
+		x_axis.append(scores[x])
+		x += 1
+	while (y < len(prices)):
+		y_axis.append(prices[y])
+		y += 1
+	while ( L < len(y_axis)):
+		#scores_prices.append([x_axis[L]], [y_axis[L]])
+		plt.plot([x_axis[L]], [y_axis[L]], 'ro')
+		L += 1
+		plt.axis([0, 3, 0, 40000])
+		plt.savefig("scores_price_plot.png")
+	plt.show()
+	return plt
