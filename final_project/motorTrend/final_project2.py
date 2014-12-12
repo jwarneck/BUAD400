@@ -146,8 +146,7 @@ def get_score(codes, text):
 		#print("CHECKING SCORE")
 		score = sentiment_score(codes, text, avg_total_words = True, punct = ['.', '?', '!', ',', '-', "'", ';', ':', '/', "\n", "\t", '"'])
 		#if (score > 0):
-		score = score + 1
-		score = ("{0:.2f}".format(score))
+		score = ("{0:.5f}".format(score))
 		#score_list.append(score)
 		return score
 		#else:
@@ -164,7 +163,7 @@ def get_msrp(make, model, base_url):
 	#return price_url
 	price_soup = BeautifulSoup(requests.get(price_url).text)
 	#stuff = price_soup.find_all('span', {'class': 'amount'})
-	stuff = price_soup.find_all('div', {'class': 'vehicle-price section-subtitle'})
+	stuff = price_soup.find_all('div', {'class': ' section-subtitle'})
 	#for p in stuff:
 	#	price = p.get('vehicle-price section-subtitle')
 	price = '\n'.join([t.float for t in stuff])
@@ -192,7 +191,7 @@ def plot_points(price_list, score_list):
 		#scores_prices.append([x_axis[L]], [y_axis[L]])
 		plt.plot([x_axis[L]], [y_axis[L]], 'ro')
 		L += 1
-		plt.axis([0, 3, 0, 40000])
+		plt.axis([0, .1, 0, 150000])
 		plt.savefig("scores_price_plot.png")
 	plt.show()
 	return plt

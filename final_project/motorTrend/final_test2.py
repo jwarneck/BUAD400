@@ -82,24 +82,26 @@ r = 0
 while (r < len(score_list)):
 	print(score_list[r])
 	r += 1
-score_list.append(1.2)
+score_list.append(.02567)
+score_list.append(.05735)
+score_list.append(.05502)
 #get MSRP
 price = get_msrp(make, model, base_url)
 #print("PRICE URL= " + price)
 print(" ")
-print("Price = " + price)
-#price_list = [32000, 25000]
+#print("Price = " + str(price))
+price_list = [32000, 25000, 22000, 65000]
+'''
 price_list = []
 price_list.append(price)
 price_list.append(25000)
 
 print(score_list)
 print(price_list)
-
 '''
+
 #plot price and sent. score on graph
 print(" ")
 print("Plotting")
 PLOT = plot_points(price_list, score_list)
 print(PLOT)
-'''
